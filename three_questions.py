@@ -3,7 +3,7 @@ import random
 answers = []
 
 def bridge_keeper():
-    
+
     questions = ["What is your favourite colour?", "What is the airspeed velocity of an unladen swallow?","What is the capital of Assyria?"]
     correct_answer = "African or European?"
 
